@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "ff1c1da653372b9e70e15c6aa2d437b7",
+    "hash": "375418c36fba636108fc543fb9382db7",
     "packages": [
         {
             "name": "floxim/cache",
@@ -36,12 +36,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Floxim/composer.git",
-                "reference": "2745ac00bb8bd43b77d0f191c8849e6e49d463be"
+                "reference": "5dd66e7d63b46c60b8b8035e35e7b15b9ac902a1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Floxim/composer/zipball/2745ac00bb8bd43b77d0f191c8849e6e49d463be",
-                "reference": "2745ac00bb8bd43b77d0f191c8849e6e49d463be",
+                "url": "https://api.github.com/repos/Floxim/composer/zipball/5dd66e7d63b46c60b8b8035e35e7b15b9ac902a1",
+                "reference": "5dd66e7d63b46c60b8b8035e35e7b15b9ac902a1",
                 "shasum": ""
             },
             "require": {
@@ -63,9 +63,9 @@
             "license": [
                 "MIT"
             ],
-            "description": "Install Floxim modules and themes.",
+            "description": "Install Floxim modules and themes with Composer.",
             "homepage": "https://github.com/Floxim/floxim-composer",
-            "time": "2015-03-09 11:44:15"
+            "time": "2015-07-28 23:56:41"
         },
         {
             "name": "floxim/floxim",
@@ -73,12 +73,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Floxim/floxim.git",
-                "reference": "abe313ff7261a2f21752692040d2aa4461d5c3b7"
+                "reference": "fea0f344ee1ae195745ef8277f4531492b067d32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Floxim/floxim/zipball/abe313ff7261a2f21752692040d2aa4461d5c3b7",
-                "reference": "abe313ff7261a2f21752692040d2aa4461d5c3b7",
+                "url": "https://api.github.com/repos/Floxim/floxim/zipball/fea0f344ee1ae195745ef8277f4531492b067d32",
+                "reference": "fea0f344ee1ae195745ef8277f4531492b067d32",
                 "shasum": ""
             },
             "require": {
@@ -100,7 +100,7 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "description": "Floxim CMS core",
-            "time": "2015-05-20 10:10:58"
+            "time": "2015-08-24 17:00:08"
         },
         {
             "name": "floxim/module-blog",
@@ -146,18 +146,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Floxim/module-form.git",
-                "reference": "0dce9ca1587317c6a1931974be08d5105c02b21a"
+                "reference": "a5d9260951963c4a71c403c31b88aae401601fdb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Floxim/module-form/zipball/0dce9ca1587317c6a1931974be08d5105c02b21a",
-                "reference": "0dce9ca1587317c6a1931974be08d5105c02b21a",
+                "url": "https://api.github.com/repos/Floxim/module-form/zipball/a5d9260951963c4a71c403c31b88aae401601fdb",
+                "reference": "a5d9260951963c4a71c403c31b88aae401601fdb",
                 "shasum": ""
             },
             "type": "floxim-module",
             "notification-url": "https://packagist.org/downloads/",
             "description": "Floxim form module.",
-            "time": "2015-05-06 15:58:34"
+            "time": "2015-06-22 10:47:09"
         },
         {
             "name": "floxim/module-layout",
@@ -184,18 +184,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Floxim/module-main.git",
-                "reference": "9a2178d05a70e3fb539d8702b816254e906bd29e"
+                "reference": "c2f429b647ffb508ba1735dd10afd6e8148b48d4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Floxim/module-main/zipball/9a2178d05a70e3fb539d8702b816254e906bd29e",
-                "reference": "9a2178d05a70e3fb539d8702b816254e906bd29e",
+                "url": "https://api.github.com/repos/Floxim/module-main/zipball/c2f429b647ffb508ba1735dd10afd6e8148b48d4",
+                "reference": "c2f429b647ffb508ba1735dd10afd6e8148b48d4",
                 "shasum": ""
             },
             "type": "floxim-module",
             "notification-url": "https://packagist.org/downloads/",
             "description": "Floxim main module.",
-            "time": "2015-05-07 17:49:53"
+            "time": "2015-08-24 17:02:37"
         },
         {
             "name": "floxim/module-media",
@@ -222,18 +222,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Floxim/module-nav.git",
-                "reference": "871ea76447ca475412f348ee450f2d8d62147a0f"
+                "reference": "d7ac6145ae0ef1ef37dde469b1a4837a8aa60d4a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Floxim/module-nav/zipball/871ea76447ca475412f348ee450f2d8d62147a0f",
-                "reference": "871ea76447ca475412f348ee450f2d8d62147a0f",
+                "url": "https://api.github.com/repos/Floxim/module-nav/zipball/d7ac6145ae0ef1ef37dde469b1a4837a8aa60d4a",
+                "reference": "d7ac6145ae0ef1ef37dde469b1a4837a8aa60d4a",
                 "shasum": ""
             },
             "type": "floxim-module",
             "notification-url": "https://packagist.org/downloads/",
             "description": "Floxim nav module.",
-            "time": "2015-05-14 16:05:51"
+            "time": "2015-07-27 05:17:34"
         },
         {
             "name": "floxim/module-shop",
@@ -241,18 +241,37 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Floxim/module-shop.git",
-                "reference": "c696d84f0af67f63d6403be94ae8fa87feffcc7b"
+                "reference": "e8ed54bc371522a6bdcc1162fbc93e42ed578342"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Floxim/module-shop/zipball/c696d84f0af67f63d6403be94ae8fa87feffcc7b",
-                "reference": "c696d84f0af67f63d6403be94ae8fa87feffcc7b",
+                "url": "https://api.github.com/repos/Floxim/module-shop/zipball/e8ed54bc371522a6bdcc1162fbc93e42ed578342",
+                "reference": "e8ed54bc371522a6bdcc1162fbc93e42ed578342",
                 "shasum": ""
             },
             "type": "floxim-module",
             "notification-url": "https://packagist.org/downloads/",
             "description": "Floxim shop module.",
-            "time": "2015-03-10 16:43:08"
+            "time": "2015-07-23 15:15:10"
+        },
+        {
+            "name": "floxim/module-ui",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Floxim/module-ui.git",
+                "reference": "50fbcc3319fe991c9b9283be923385a0fbc6cfd2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Floxim/module-ui/zipball/50fbcc3319fe991c9b9283be923385a0fbc6cfd2",
+                "reference": "50fbcc3319fe991c9b9283be923385a0fbc6cfd2",
+                "shasum": ""
+            },
+            "type": "floxim-module",
+            "notification-url": "https://packagist.org/downloads/",
+            "description": "Floxim UI module.",
+            "time": "2015-08-17 16:57:04"
         },
         {
             "name": "floxim/module-user",
@@ -260,18 +279,18 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Floxim/module-user.git",
-                "reference": "5ea8b3aae79d07e3a4c1021c151f5f75adf4d8e8"
+                "reference": "2d6baeafa63afe22e6e146f6192d8de0f66f019d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Floxim/module-user/zipball/5ea8b3aae79d07e3a4c1021c151f5f75adf4d8e8",
-                "reference": "5ea8b3aae79d07e3a4c1021c151f5f75adf4d8e8",
+                "url": "https://api.github.com/repos/Floxim/module-user/zipball/2d6baeafa63afe22e6e146f6192d8de0f66f019d",
+                "reference": "2d6baeafa63afe22e6e146f6192d8de0f66f019d",
                 "shasum": ""
             },
             "type": "floxim-module",
             "notification-url": "https://packagist.org/downloads/",
             "description": "Floxim user module.",
-            "time": "2015-03-11 13:00:06"
+            "time": "2015-07-27 05:18:43"
         },
         {
             "name": "floxim/theme-phototeam",
@@ -291,6 +310,28 @@
             "notification-url": "https://packagist.org/downloads/",
             "description": "Phototeam Floxim theme",
             "time": "2015-05-20 10:35:22"
+        },
+        {
+            "name": "floxim/themes-saas",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:dubrowsky/saas-themes.git",
+                "reference": "9fcb235f14b1fdbd8a438ddaccb2de5124df4eb2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/dubrowsky/saas-themes/zipball/9fcb235f14b1fdbd8a438ddaccb2de5124df4eb2",
+                "reference": "9fcb235f14b1fdbd8a438ddaccb2de5124df4eb2",
+                "shasum": ""
+            },
+            "type": "floxim-themes",
+            "description": "SaaS theme set for floxim.ru",
+            "support": {
+                "source": "https://github.com/dubrowsky/saas-themes/tree/master",
+                "issues": "https://github.com/dubrowsky/saas-themes/issues"
+            },
+            "time": "2015-08-24 17:01:23"
         },
         {
             "name": "leafo/lessphp",
@@ -449,6 +490,7 @@
     "minimum-stability": "dev",
     "stability-flags": [],
     "prefer-stable": false,
+    "prefer-lowest": false,
     "platform": [],
     "platform-dev": []
 }

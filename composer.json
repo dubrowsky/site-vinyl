@@ -2,6 +2,12 @@
     "name" : "floxim/site-phototeam",
     "description" : "Floxim Phototeam demo site",
     "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/dubrowsky/saas-themes.git"
+        }
+    ],
     "require" : {
         "floxim/floxim" : "*",
         "floxim/module-blog" : "*",
@@ -9,6 +15,8 @@
         "floxim/module-layout" : "*",
         "floxim/module-media" : "*",
         "floxim/module-shop" : "*",
-        "floxim/theme-phototeam" : "*"
+        "floxim/module-ui" : "*",
+        "floxim/theme-phototeam" : "*",
+        "floxim/themes-saas" : "*"
     }
 }
