@@ -19,3 +19,5 @@
 {/template}
 
 {preset floxim.media.photo:listing_slider /}
+
+{preset floxim.main.page:neighbours /}
