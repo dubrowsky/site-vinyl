@@ -17,3 +17,5 @@
     {apply record_extra#imported /}
     <div fx:e="text">{$text /}</div>
 {/template}
+
+{preset floxim.media.photo:listing_slider /}
